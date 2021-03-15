@@ -140,15 +140,27 @@ nav menu {
     margin-bottom: 30px;
 }
 .link{
-background-color: red;
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 35px;
 }
 
+.link a {
+    text-align: center;
+    color: white;
+    background-color: #000000;
+    box-shadow: 8px 8px 0 rgb(206, 203, 203);
+    border-style: none;
+    font-size: 20px;
+    padding: 15px 90px 15px 90px;
+    text-decoration: none;
+    
+}
 
 .sec3 {
-    height: 50px;
-    width: 600px;
-display: flex;
-justify-content: flex-end;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 
 }

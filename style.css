@@ -20,7 +20,7 @@ body {
     color: rgba(0, 0, 0, .05);
 }
 
-.busca img {
+.npmlogo {
     width: 50px;
     height: 20px;
     margin-top: 5px;
@@ -156,6 +156,7 @@ nav menu {
     font-size: 20px;
     padding: 15px 90px 15px 90px;
     text-decoration: none;
+    
     
 }
 
